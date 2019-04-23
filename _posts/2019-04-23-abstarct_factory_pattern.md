@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Abstract Facotry Pattern"
+title: "Abstract Factory Pattern"
 comments: true
 description: "How to Download or Use This Theme"
 keywords: "dummy content"
