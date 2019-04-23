@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TESTzzz"
+title: "Abstract Facotry Pattern"
 comments: true
 description: "How to Download or Use This Theme"
 keywords: "dummy content"
