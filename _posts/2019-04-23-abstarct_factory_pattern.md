@@ -5,6 +5,26 @@ comments: true
 description: "How to Download or Use This Theme"
 keywords: "dummy content"
 ---
+## Code Blocks
+
+```java
+public class MachineFactoryB implements MachineFactory{
+
+	 
+	@Override
+	public MachineA getMachineA() {
+		return new MachineA2();
+	}
+
+	@Override
+	public MachineB getMacineB() {
+		return new MachineB2();
+	}
+
+}
+
+```
+
 
 ### Use this theme as you main site
 
